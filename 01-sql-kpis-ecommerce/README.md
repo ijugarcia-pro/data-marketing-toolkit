@@ -46,7 +46,7 @@ Le fichier `queries.sql` contient **10 requêtes commentées**, chacune réponda
 
 ## Dashboard Looker Studio
 
-> 🔗 [Lien vers le dashboard](#) *(à venir)*
+> 🔗 [Lien vers le dashboard] (https://lookerstudio.google.com/s/mWRwb7gDGpQ)
 
 ![Dashboard KPIs E-commerce](screenshot-looker.png)
 
